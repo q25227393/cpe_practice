@@ -1,0 +1,4 @@
+cat = 5 + 3; 
+bag = (print (Cat, cat*1), 10+CAT); 
+print (Bag )
+
